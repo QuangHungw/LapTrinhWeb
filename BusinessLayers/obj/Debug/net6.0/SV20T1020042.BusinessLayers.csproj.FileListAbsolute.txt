@@ -1,0 +1,17 @@
+D:\SV20T1020042\BusinessLayers\bin\Debug\net6.0\SV20T1020042.BusinessLayers.deps.json
+D:\SV20T1020042\BusinessLayers\bin\Debug\net6.0\SV20T1020042.BusinessLayers.dll
+D:\SV20T1020042\BusinessLayers\bin\Debug\net6.0\SV20T1020042.BusinessLayers.pdb
+D:\SV20T1020042\BusinessLayers\obj\Debug\net6.0\SV20T1020042.BusinessLayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SV20T1020042\BusinessLayers\obj\Debug\net6.0\SV20T1020042.BusinessLayers.AssemblyInfoInputs.cache
+D:\SV20T1020042\BusinessLayers\obj\Debug\net6.0\SV20T1020042.BusinessLayers.AssemblyInfo.cs
+D:\SV20T1020042\BusinessLayers\obj\Debug\net6.0\SV20T1020042.BusinessLayers.csproj.CoreCompileInputs.cache
+D:\SV20T1020042\BusinessLayers\obj\Debug\net6.0\SV20T1020042.BusinessLayers.dll
+D:\SV20T1020042\BusinessLayers\obj\Debug\net6.0\refint\SV20T1020042.BusinessLayers.dll
+D:\SV20T1020042\BusinessLayers\obj\Debug\net6.0\SV20T1020042.BusinessLayers.pdb
+D:\SV20T1020042\BusinessLayers\obj\Debug\net6.0\ref\SV20T1020042.BusinessLayers.dll
+D:\SV20T1020042\BusinessLayers\bin\Debug\net6.0\SV20T1020042.DataLayers.dll
+D:\SV20T1020042\BusinessLayers\bin\Debug\net6.0\SV20T1020042.DomainModels.dll
+D:\SV20T1020042\BusinessLayers\bin\Debug\net6.0\SV20T1020042.DomainModels.pdb
+D:\SV20T1020042\BusinessLayers\bin\Debug\net6.0\SV20T1020042.DataLayers.pdb
+D:\SV20T1020042\BusinessLayers\obj\Debug\net6.0\SV20T1020042.BusinessLayers.csproj.AssemblyReference.cache
+D:\SV20T1020042\BusinessLayers\obj\Debug\net6.0\SV20T1020042.BusinessLayers.csproj.CopyComplete

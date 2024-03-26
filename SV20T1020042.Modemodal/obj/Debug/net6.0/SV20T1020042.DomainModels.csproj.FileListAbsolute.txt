@@ -1,0 +1,11 @@
+D:\SV20T1020042\SV20T1020042.Modemodal\bin\Debug\net6.0\SV20T1020042.DomainModels.deps.json
+D:\SV20T1020042\SV20T1020042.Modemodal\bin\Debug\net6.0\SV20T1020042.DomainModels.dll
+D:\SV20T1020042\SV20T1020042.Modemodal\bin\Debug\net6.0\SV20T1020042.DomainModels.pdb
+D:\SV20T1020042\SV20T1020042.Modemodal\obj\Debug\net6.0\SV20T1020042.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\SV20T1020042\SV20T1020042.Modemodal\obj\Debug\net6.0\SV20T1020042.DomainModels.AssemblyInfoInputs.cache
+D:\SV20T1020042\SV20T1020042.Modemodal\obj\Debug\net6.0\SV20T1020042.DomainModels.AssemblyInfo.cs
+D:\SV20T1020042\SV20T1020042.Modemodal\obj\Debug\net6.0\SV20T1020042.DomainModels.csproj.CoreCompileInputs.cache
+D:\SV20T1020042\SV20T1020042.Modemodal\obj\Debug\net6.0\SV20T1020042.DomainModels.dll
+D:\SV20T1020042\SV20T1020042.Modemodal\obj\Debug\net6.0\refint\SV20T1020042.DomainModels.dll
+D:\SV20T1020042\SV20T1020042.Modemodal\obj\Debug\net6.0\SV20T1020042.DomainModels.pdb
+D:\SV20T1020042\SV20T1020042.Modemodal\obj\Debug\net6.0\ref\SV20T1020042.DomainModels.dll
